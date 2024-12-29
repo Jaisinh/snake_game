@@ -17,4 +17,4 @@ This game lets you control a snake to collect food while avoiding collisions wit
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Jaisinh/snake_game/
+   git clone https://github.com/yourusername/rust-snake-game.git
