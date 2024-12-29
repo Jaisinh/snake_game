@@ -18,3 +18,11 @@ This game lets you control a snake to collect food while avoiding collisions wit
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Jaisinh/snake_game/
+   ```
+2. Open a terminal in the project folder.
+3. Run the following command to build and execute the game:
+
+```bash
+cargo run
+```
+
